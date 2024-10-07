@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Adder_Button
+  - Mob
+  - Undefined
+  - Soldier
+  - UI_mobDisplay
+  - UI_Manager
+  - UI_SLot
+  - UnlimSlot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: plot
+    uniqueID: 1454932907
+    locked: 0
+  - name: river
+    uniqueID: 543489093
+    locked: 0
+  - name: background
+    uniqueID: 16990517
+    locked: 0
+  - name: path
+    uniqueID: 900442097
+    locked: 0
+  - name: ground
+    uniqueID: 1851554639
+    locked: 0
+  - name: grass
+    uniqueID: 751323805
+    locked: 0
+  - name: shadow
+    uniqueID: 1935012703
+    locked: 0
+  - name: forground
+    uniqueID: 889167625
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tree
+    uniqueID: 3281093967
+    locked: 0
+  - name: tower
+    uniqueID: 3678938449
+    locked: 0
+  - name: UI
+    uniqueID: 1514506113
+    locked: 0
