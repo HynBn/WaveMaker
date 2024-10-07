@@ -1,3 +1,6 @@
+<h3>Note from Me:</h3>
+<p>This was my first project in a group and my first 'big' project aside from university projects. With a group of 6 people, we managed to create this game within 48 hours. My responsibility was the design of the Game. I searched up some open-source graphical elements and implemented them to our Game. If needed, I also helped as much in other sections.</p>
+
 <h3>About the game</h3>
 <p>This game is part of GMTK Game Jam 2023 with the topic Roles Reversed. We decided to make a reversed&nbsp;tower defense game inspired by <a href="https://www.kingdomrush.com" target="_blank">Kingdom Rush</a>.&nbsp;</p>
 <p>In our game you have to build a wave of diffent mobs (monsters) and send them through a map. A simple script generates towers that try to stop your mobs from reaching the end of the map.&nbsp;</p>
